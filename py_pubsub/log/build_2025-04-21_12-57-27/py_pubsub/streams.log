@@ -1,0 +1,38 @@
+[0.731s] Invoking command in '/home/barenbo/Desktop/Code/robot/lab2/py_pubsub': PS1=<ROS2-Jazzy>[\u@\h \W]$ PYTHONPATH=/home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/py_pubsub build --build-base /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build install --record /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.883s] running egg_info
+[0.883s] creating build/py_pubsub/py_pubsub.egg-info
+[0.893s] writing build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.897s] writing dependency_links to build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.899s] writing entry points to build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.901s] writing requirements to build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.902s] writing top-level names to build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.904s] writing manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.926s] reading manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.928s] adding license file 'LICENSE'
+[0.928s] writing manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.930s] running build
+[0.930s] running build_py
+[0.931s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build
+[0.931s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib
+[0.932s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.934s] copying py_pubsub/publisher_member_function.py -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.937s] copying py_pubsub/__init__.py -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.940s] running install
+[0.944s] running install_lib
+[0.959s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[0.960s] copying /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[0.963s] copying /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub
+[0.968s] byte-compiling /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/__init__.py to __init__.cpython-312.pyc
+[0.973s] byte-compiling /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-312.pyc
+[0.978s] running install_data
+[0.978s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/share/ament_index
+[0.979s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/share/ament_index/resource_index
+[0.980s] creating /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/share/ament_index/resource_index/packages
+[0.982s] copying resource/py_pubsub -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/share/ament_index/resource_index/packages
+[0.986s] copying package.xml -> /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/share/py_pubsub
+[0.989s] running install_egg_info
+[1.026s] Copying build/py_pubsub/py_pubsub.egg-info to /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages/py_pubsub-0.0.0-py3.12.egg-info
+[1.066s] running install_scripts
+[1.303s] Installing talker script to /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/py_pubsub
+[1.307s] writing list of installed files to '/home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/install.log'
+[1.322s] Invoked command in '/home/barenbo/Desktop/Code/robot/lab2/py_pubsub' returned '0': PS1=<ROS2-Jazzy>[\u@\h \W]$ PYTHONPATH=/home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/barenbo/Desktop/Code/robot/lab2/py_pubsub/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/py_pubsub build --build-base /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/build install --record /home/barenbo/Desktop/Code/robot/lab2/py_pubsub/build/py_pubsub/install.log --single-version-externally-managed install_data

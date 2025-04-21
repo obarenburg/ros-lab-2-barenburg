@@ -1,0 +1,26 @@
+[0.057s] Invoking command in '/home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description -- -j24 -l24
+[0.409s] Invoked command in '/home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description -- -j24 -l24
+[0.413s] Invoking command in '/home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description
+[0.427s] -- Install configuration: ""
+[0.428s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/models
+[0.429s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/models/diff_drive
+[0.431s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.config
+[0.434s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.sdf
+[0.435s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.dsv
+[0.436s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.sh
+[0.438s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ament_index/resource_index/package_run_dependencies/ros_gz_description
+[0.439s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ament_index/resource_index/parent_prefix_path/ros_gz_description
+[0.440s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.sh
+[0.441s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.dsv
+[0.442s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/path.sh
+[0.443s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/environment/path.dsv
+[0.444s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/local_setup.bash
+[0.445s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/local_setup.sh
+[0.446s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/local_setup.zsh
+[0.447s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/local_setup.dsv
+[0.449s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/package.dsv
+[0.450s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ament_index/resource_index/packages/ros_gz_description
+[0.452s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig.cmake
+[0.453s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig-version.cmake
+[0.454s] -- Up-to-date: /home/barenbo/Desktop/Code/robot/lab2/install/ros_gz_description/share/ros_gz_description/package.xml
+[0.523s] Invoked command in '/home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/barenbo/Desktop/Code/robot/lab2/build/ros_gz_description
